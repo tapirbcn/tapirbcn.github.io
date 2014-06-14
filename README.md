@@ -1,4 +1,4 @@
 website
 =======
 
-Repository for our website with github.io
+Jekyll generated website for TauVsPi hackerspace
