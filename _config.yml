@@ -1,3 +1,7 @@
-name: Your New Jekyll Site
+name: TauPi Hackerspace blogpost
+description: Playground for hacking
+url: http://tauvspi.github.io
 markdown: redcarpet
 pygments: true
+permalink: /:title/
+comments: true
